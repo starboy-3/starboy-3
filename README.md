@@ -1,9 +1,9 @@
-### Hey👋
+### Hey👋 I am Ayub and I am:
 
-- 👨‍🎓 I’m currently pursuing my Bachelor's degree in CS AMI at [HSE University](hse.ru)
-- ⚡ Learning C++, Python and Java
+- 👨‍🎓 currently pursuing my Bachelor's degree in CS AMI at [HSE University](hse.ru)
+- ⚡ learning C++, Python and Java
 - 💻 Interested in Django, Django Rest Framework
-- 📫 Reach me: via [Telegram](https://t.me/st4rboy03)
+- 📫 available: via [Telegram](https://t.me/st4rboy03)
 <!--
 **starboy-3/starboy-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
