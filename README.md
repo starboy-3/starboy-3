@@ -1,6 +1,6 @@
 ### Hey👋 I am Ayub and I am:
 
-- 👨‍🎓 currently pursuing my Bachelor's degree in CS AMI at [HSE University](hse.ru)
+- 👨‍🎓 currently pursuing my Bachelor's degree in CS AMI at [HSE University](https://hse.ru)
 - ⚡ learning C++, Python and Java
 - 💻 Interested in Django, Django Rest Framework
 - 📫 available: via [Telegram](https://t.me/st4rboy03)
