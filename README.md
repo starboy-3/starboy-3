@@ -2,8 +2,9 @@
 
 - 👨‍🎓 currently pursuing my Bachelor's degree in CS AMI at [HSE University](https://hse.ru)
 - ⚡ learning C++, Python and Java
-- 💻 Interested in Django, Django Rest Framework
-- 📫 available: via [Telegram](https://t.me/st4rboy03)
+- working at Yandex
+- 💻 Interested in Django, Java(Spring and other frameworks)
+- 📫 available: via [Telegram](https://t.me/starboy369)
 <!--
 **starboy-3/starboy-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
