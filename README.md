@@ -1,8 +1,8 @@
 ### Hey👋 I am Ayub and I am:
 
 - 👨‍🎓 currently pursuing my Bachelor's degree in CS AMI at [HSE University](https://hse.ru)
-- ⚡ learning C/C++, Python, Java
-- working at Yandex
+- 🤔 learning C/C++, Python, Java
+- ⚡ working at Yandex
 - 💻 Interested in Django, Spring and other frameworks
 - 📫 available: via [Telegram](https://t.me/starboy369)
 <!--
