@@ -1,4 +1,4 @@
-### Hey👋 I am Ayub and I am:
+### Hey I am Ayub and I am:
 currently pursuing my Bachelor's degree in CS at [HSE University](https://hse.ru)
 interested in distributed systems and cutting-edge technologies.
 <!--
