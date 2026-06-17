@@ -1,5 +1,5 @@
-### Hey I am Ayub and I am:
-currently pursuing my Bachelor's degree in CS at [HSE University](https://hse.ru)
+### Hey:
+currently Hypervisor / Kernel Engineer at Amazon Web Services
 interested in distributed systems and cutting-edge technologies.
 <!--
 **starboy-3/starboy-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
